@@ -1,5 +1,5 @@
 ![lightgif](https://user-images.githubusercontent.com/87264935/163716041-7b4940fd-93d0-4808-a766-832ff12e9feb.gif#gh-light-mode-only)
-![darkgif](https://user-images.githubusercontent.com/87264935/163717944-d4a9cafc-1411-48ee-a5da-7e514da8d759.gif#gh-dark-mode-only)
+![darkgif](https://user-images.githubusercontent.com/87264935/163717944-d4a9cafc-1411-48ee-a5da-7e514da8d759.gif#gh-dark-mode-only width=34px)
 
 
 <h3 align="center">A passionate of Software Developer from India</h3>
