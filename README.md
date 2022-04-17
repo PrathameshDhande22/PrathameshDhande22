@@ -1,5 +1,11 @@
 # Hii , There It's me Prathamesh Dhande ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"><br/>
+
+![darkgif](https://user-images.githubusercontent.com/87264935/163716017-f3f300f6-e34b-47d3-b38d-bd14aa3d05e9.gif#gh-dark-mode-only)
+![lightgif](https://user-images.githubusercontent.com/87264935/163716041-7b4940fd-93d0-4808-a766-832ff12e9feb.gif#gh-light-mode-only)
+
+
 <h3 align="center">A passionate of Software Developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathameshdhande22&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshdhande22" /> </p>
 
