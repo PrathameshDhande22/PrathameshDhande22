@@ -1,6 +1,7 @@
+
 <br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=5800&color=01F736&width=800&height=60&lines=Hii+There+%F0%9F%91%8B+%2C+It's+Me+Prathamesh+Dhande;I+love+coding+in+Python+and+Java;Welcome+%F0%9F%99%8F+To+My+Github+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=5800&color=01F736&width=800&height=60&lines=Hii+There+%F0%9F%91%8B+%2C+It's+Me+Prathamesh+Dhande.;I+love+coding+in+Python+and+Java.;Welcome+%F0%9F%99%8F+To+My+Github+Profile.)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate of Software Developer from India :india:</h3>
 
@@ -23,14 +24,13 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathameshdhande22" alt="prathameshdhande22" /></a> </p>
+<h3> My Trophies in Github :
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathameshdhande22&theme=radical" alt="prathameshdhande22" /></a> </p>
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshdhande22&show_icons=true&locale=en&layout=compact" alt="prathameshdhande22" /></p>
+<h3> Most Used Languages :</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshdhande22&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="prathameshdhande22" /></p>
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshdhande22&show_icons=true&locale=en" alt="prathameshdhande22" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshdhande22&show_icons=true&locale=en&theme=radical" alt="prathameshdhande22" /></p>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshdhande22&" alt="prathameshdhande22" /></p>
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshdhande22&theme=highcontrast" alt="prathameshdhande22" /></p>
