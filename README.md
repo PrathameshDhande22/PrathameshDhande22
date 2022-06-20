@@ -1,3 +1,4 @@
+<br />
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=5800&color=01F736&width=800&height=60&lines=Hii+There+%F0%9F%91%8B+%2C+It's+Me+Prathamesh+Dhande;I+love+coding+in+Python+and+Java;Welcome+%F0%9F%99%8F+To+My+Github+Profile)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate of Software Developer from India :india:</h3>
