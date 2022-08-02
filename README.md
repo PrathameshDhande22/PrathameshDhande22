@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate of Software Developer from India :india:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathameshdhande22&label=Profile%20views&color=0e75b6&style=flat" alt="prathameshdhande22" /> </p>
+![Visitor Count](https://profile-counter.glitch.me/{prathameshdhande22}/count.svg)
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
