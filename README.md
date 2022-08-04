@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/prathamesh-dhande-3a039721a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prathamesh-dhande-3a039721a/" height="30" width="40" /></a>
 <a href="https://instagram.com/prathameshdhande5139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prathameshdhande5139" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@prathameshdhand1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prathameshdhand1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@prathameshdhand1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="@prathameshdhand1" height="35" width="110" /></a>
 <a href="https://leetcode.com/prathamesh2003/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="prathamesh2003" height="35" width="110"/></a>
 </p>
 
