@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prathamesh-dhande-3a039721a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/prathamesh-dhande-3a039721a/" height="35" width="120" /></a>%nbsp;
+<a href="https://linkedin.com/in/prathamesh-dhande-3a039721a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/prathamesh-dhande-3a039721a/" height="35" width="120" /></a>             
 <a href="https://instagram.com/prathameshdhande5139" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="prathameshdhande5139" height="35" width="120" /></a>
 <a href="https://www.facebook.com/prathamesh.dhande.71/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="prathameshdhande5139" height="35" width="120" /></a>
 <a href="https://www.hackerrank.com/@prathameshdhand1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="@prathameshdhand1" height="35" width="120" /></a>
