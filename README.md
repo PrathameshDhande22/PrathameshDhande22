@@ -2,13 +2,14 @@
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=5800&color=01F736&width=800&height=60&lines=Hii+There+%F0%9F%91%8B+%2C+It's+Me+Prathamesh+Dhande.;I+love+coding+in+Python+and+Java.;Welcome+%F0%9F%99%8F+To+My+Github+Profile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=6500&color=01F736&width=800&height=60&lines=Hii+There+%F0%9F%91%8B+%2C+It's+Me+Prathamesh+Dhande.;I+love+coding+in+Python+and+Java.;Welcome+%F0%9F%99%8F+To+My+Github+Profile.)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate of Software Developer from India :india:</h3>
+<h3 align="center">A passionate of Software Developer from India 🇮🇳</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/{prathameshdhande22}/count.svg)
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+- 🌱 I’m currently learning </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1. Data Structure and Algorithms**</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**2. Pandas and Matplotlib Module of Python**
 
 - 📝Here I Upload All my Project on [Blog Link](https://prathameshcode.blogspot.com/)
 
@@ -39,7 +40,7 @@
           
 </p>
 
-<h3> My Trophies in Github :
+<h3> My Trophies in Github :</br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathameshdhande22&theme=radical" alt="prathameshdhande22" /></a> </p>
 <br/>
 <h3> Most Used Languages :</h3>
