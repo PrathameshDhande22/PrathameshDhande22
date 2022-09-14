@@ -45,9 +45,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathameshdhande22&theme=radical" alt="prathameshdhande22" /></a> </p>
 <br/>
 <h3> Most Used Languages :</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshdhande22&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="prathameshdhande22" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshdhande22&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="prathameshdhande22" /></p>
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshdhande22&show_icons=true&locale=en&theme=radical" alt="prathameshdhande22" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshdhande22&show_icons=true&locale=en&theme=highcontrast" alt="prathameshdhande22" /></p>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshdhande22&theme=highcontrast" alt="prathameshdhande22" /></p>
