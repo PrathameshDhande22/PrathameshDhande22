@@ -22,7 +22,8 @@
 <a href="https://www.facebook.com/prathamesh.dhande.71/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="prathameshdhande5139" height="35" width="140" /></a>&nbsp;
 <a href="https://www.hackerrank.com/prathameshdhand1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="prathameshdhand1" height="35" width="150" /></a>&nbsp;
 
-<a href="https://leetcode.com/prathamesh2003/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="prathamesh2003" height="35" width="140"/></a>
+<a href="https://leetcode.com/prathamesh2003/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="prathamesh2003" height="35" width="140"/></a>&nbsp;
+<a href="https://www.codechef.com/users/prathamesh2003" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"  alt="prathamesh2003" height="35" width="140"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
