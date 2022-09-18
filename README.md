@@ -40,10 +40,15 @@
  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="60" height="60"/></a>
           
 </p>
+<h3>HackerRank Verified Skills :</h3>
+<a href="https://www.hackerrank.com/certificates/ae5dbc2a7242"><img src="java.png" alt="java" width="80" ></a> &nbsp;
+<a href="https://www.hackerrank.com/certificates/f936f83e707d"><img src="python.png" alt="java" width="80" ></a> &nbsp;
+<a href="https://www.hackerrank.com/certificates/10858d06e504"><img src="sql.png" alt="java" width="80" ></a>
+</br>
 
-<h3> My Trophies in Github :</br>
+<h3> My Trophies in Github :</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathameshdhande22&theme=radical" alt="prathameshdhande22" /></a> </p>
-<br/>
+
 <h3> Most Used Languages :</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshdhande22&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="prathameshdhande22" /></p>
 <br/>
