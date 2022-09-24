@@ -41,9 +41,10 @@
           
 </p>
 <h3>HackerRank Verified Skills :</h3>
-<a href="https://www.hackerrank.com/certificates/ae5dbc2a7242"><img src="java.png" alt="java" width="80" ></a> &nbsp;
-<a href="https://www.hackerrank.com/certificates/f936f83e707d"><img src="python.png" alt="java" width="80" ></a> &nbsp;
-<a href="https://www.hackerrank.com/certificates/10858d06e504"><img src="sql.png" alt="java" width="80" ></a>
+<a href="https://www.hackerrank.com/certificates/ae5dbc2a7242" target="_blank"><img src="java.png" alt="java" width="80" ></a> &nbsp;
+<a href="https://www.hackerrank.com/certificates/f936f83e707d" target="_blank"><img src="python.png" alt="java" width="80" ></a> &nbsp;
+<a href="https://www.hackerrank.com/certificates/10858d06e504" target="_blank"><img src="sql.png" alt="java" width="80" ></a> &nbsp;
+<a href="https://www.hackerrank.com/certificates/b91cefc0b310" target="_blank"><img src="problem_solving.png" alt="java" width="80" height="110" ></a>
 </br>
 
 <h3> My Trophies in Github :</h3>
