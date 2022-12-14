@@ -38,15 +38,15 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"  width="60" height="60" /></a>&nbsp;
 <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="60" height="60"/></a>&nbsp;
-<a href="https://pandas.pydata.org/docs/getting_started/index.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="60" height="60"/></a> &nbsp;
-<a href="https://matplotlib.org/stable/api/index.html" target="_blank" rel="noreferrer"><img src="https://www.sprezzatech.com/wiki/images/5/56/Matplotlib_logo.svg" width="150" height="60"/></a>
+<a href="https://pandas.pydata.org/docs/getting_started/index.html" target="_blank" rel="noreferrer"><img src="images/pandas_white.svg" width="130" height="60"/></a> &nbsp;
+<a href="https://matplotlib.org/stable/api/index.html" target="_blank" rel="noreferrer"><img src="images/logo_dark.svg" width="150" height="60"/></a>
         
 </p>
 <h3>HackerRank Verified Skills :</h3>
-<a href="https://www.hackerrank.com/certificates/ae5dbc2a7242" target="_blank"><img src="java.png" alt="java" width="80" ></a> &nbsp;
-<a href="https://www.hackerrank.com/certificates/f936f83e707d" target="_blank"><img src="python.png" alt="java" width="80" ></a> &nbsp;
-<a href="https://www.hackerrank.com/certificates/10858d06e504" target="_blank"><img src="sql.png" alt="java" width="80" ></a> &nbsp;
-<a href="https://www.hackerrank.com/certificates/b91cefc0b310" target="_blank"><img src="problem_solving.png" alt="java" width="80" height="110" ></a>
+<a href="https://www.hackerrank.com/certificates/ae5dbc2a7242" target="_blank"><img src="images/java.png" alt="java" width="80" ></a> &nbsp;
+<a href="https://www.hackerrank.com/certificates/f936f83e707d" target="_blank"><img src="images/python.png" alt="java" width="80" ></a> &nbsp;
+<a href="https://www.hackerrank.com/certificates/10858d06e504" target="_blank"><img src="images/sql.png" alt="java" width="80" ></a> &nbsp;
+<a href="https://www.hackerrank.com/certificates/b91cefc0b310" target="_blank"><img src="images/problem_solving.png" alt="java" width="80" height="110" ></a>
 </br>
 
 <h3> My Trophies in Github :</h3>
