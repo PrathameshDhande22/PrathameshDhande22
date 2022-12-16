@@ -9,9 +9,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/{prathameshdhande22}/count.svg)
 
 - 🌱 I’m currently learning </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1. Data Structure and Algorithms**</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**2. Seaborn Module of Python**
+**2. HTML and CSS**
 
-- 📝Here I Upload All my Project on [Blog Link](https://prathameshcode.blogspot.com/)
 
 - 📫 How to reach me **prathameshdhande534@gmail.com**
 
@@ -39,7 +38,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"  width="60" height="60" /></a>&nbsp;
 <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="60" height="60"/></a>&nbsp;
 <a href="https://pandas.pydata.org/docs/getting_started/index.html" target="_blank" rel="noreferrer"><img src="images/pandas_white.svg" width="130" height="60"/></a> &nbsp;
-<a href="https://matplotlib.org/stable/api/index.html" target="_blank" rel="noreferrer"><img src="images/logo_dark.svg" width="150" height="60"/></a>
+<a href="https://matplotlib.org/stable/api/index.html" target="_blank" rel="noreferrer"><img src="images/logo_dark.svg" width="150" height="60"/></a> &nbsp;
+<a href="https://seaborn.pydata.org/api.html" target="_blank" rel="noreferrer"><img src="https://ucarecdn.com/95a55829-e0a1-45e3-ae74-4358ba66e4e3/" width="150" height="60"/></a> 
         
 </p>
 <h3>HackerRank Verified Skills :</h3>
