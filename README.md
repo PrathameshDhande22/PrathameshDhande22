@@ -41,6 +41,8 @@
 <a href="https://pandas.pydata.org/docs/getting_started/index.html" target="_blank" rel="noreferrer"><img src="images/pandas_white.svg" width="130" height="60"/></a> &nbsp;
 <a href="https://matplotlib.org/stable/api/index.html" target="_blank" rel="noreferrer"><img src="images/logo_dark.svg" width="150" height="60"/></a> &nbsp;
 <a href="https://seaborn.pydata.org/api.html" target="_blank" rel="noreferrer"><img src="https://ucarecdn.com/95a55829-e0a1-45e3-ae74-4358ba66e4e3/" width="150" height="60"/></a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
+          
         
 </p>
 <h3>HackerRank Verified Skills :</h3>
