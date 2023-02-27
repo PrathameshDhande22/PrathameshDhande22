@@ -31,7 +31,7 @@
 
 <h3 align="left">Tools :</h3>
 <p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> &nbsp; <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" /></a><a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="60" height="60"/> &nbsp;</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" /></a><a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> &nbsp;&nbsp;<img src="images/premiere.png" width="60" height="60"/> &nbsp;</a>
 <a href="https://www.eclipse.org/"><img src="https://skillicons.dev/icons?i=eclipse&theme=dark" height="60"></a>&nbsp;<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="60"></a>
 </p>
 
