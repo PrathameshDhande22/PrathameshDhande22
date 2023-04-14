@@ -9,7 +9,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{prathameshdhande22}/count.svg)
 
 - 🌱 I’m currently learning </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1. Data Structure and Algorithms**</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**2. React JS** </br>
+**2. Flask** </br>
 - 📫 How to reach me **prathameshdhande534@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -26,11 +26,13 @@
 <h3 align="left">Languages :</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> &nbsp;
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" /></a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" />       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" /></a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" />   
 </p>
 
-<h3 align="left">FrameWorks : </h3>
-<p align="left"><a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="60"/></a>
+<h3 align="left">Frameworks : </h3>
+<p align="left"><a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="60"/></a>&nbsp;
+<a href="https://mui.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60"/></a>
+          
 </p>
 
 <h3 align="left">Tools :</h3>
@@ -43,6 +45,12 @@
 <p align="left"><a href="https://numpy.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"  width="60" height="60" /></a> <a href="https://pandas.pydata.org/docs/getting_started/index.html" target="_blank" rel="noreferrer"><img src="images/pandas_white.svg" width="130" height="60"/></a><a href="https://matplotlib.org/stable/api/index.html" target="_blank" rel="noreferrer"><img src="images/logo_dark.svg" width="150" height="60"/></a><a href="https://seaborn.pydata.org/api.html" target="_blank" rel="noreferrer"><img src="https://ucarecdn.com/95a55829-e0a1-45e3-ae74-4358ba66e4e3/" width="150" height="60"/></a> 
 <a href="https://docs.python-telegram-bot.org/en/stable/index.html"><img src="https://ucarecdn.com/9dff300f-f0c1-46a4-8f2a-0a38c4964ebd/-/scale_crop/80x80/"></a>
+</p>
+
+<h3 align="left">Javascript Libraries :</h3>
+<p align="left">
+<a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60"/></a>
+<a href="https://react-redux.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60"/></a>
 </p>
 
 <h3>HackerRank Verified Skills :</h3>
