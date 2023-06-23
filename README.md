@@ -44,6 +44,8 @@
 <p align="left"><a href="https://numpy.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"  width="60" height="60" /></a> <a href="https://pandas.pydata.org/docs/getting_started/index.html" target="_blank" rel="noreferrer"><img src="images/pandas_white.svg" width="130" height="60"/></a><a href="https://matplotlib.org/stable/api/index.html" target="_blank" rel="noreferrer"><img src="images/logo_dark.svg" width="150" height="60"/></a><a href="https://seaborn.pydata.org/api.html" target="_blank" rel="noreferrer"><img src="https://ucarecdn.com/95a55829-e0a1-45e3-ae74-4358ba66e4e3/" width="150" height="60"/></a> 
 <a href="https://docs.python-telegram-bot.org/en/stable/index.html"><img src="https://ucarecdn.com/9dff300f-f0c1-46a4-8f2a-0a38c4964ebd/-/scale_crop/80x80/"></a>
+<a href="https://docs.sqlalchemy.org/en/20/index.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" height=100 /></a>
+          
 </p>
 
 <h3 align="left">Javascript Libraries :</h3>
