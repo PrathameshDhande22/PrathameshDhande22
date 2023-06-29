@@ -30,7 +30,8 @@
 
 <h3 align="left">Frameworks : </h3>
 <p align="left"><a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="60"/></a>&nbsp;
-<a href="https://mui.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60"/></a>
+<a href="https://mui.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60"/></a> &nbsp;
+<a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" height="60"/></a>
           
 </p>
 
