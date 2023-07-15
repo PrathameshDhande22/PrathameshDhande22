@@ -9,7 +9,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{prathameshdhande22}/count.svg)
 
 - 🌱 I’m currently learning </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1. Data Structure and Algorithms**</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**2. Tailwind CSS** </br>
+**2. Django** </br>
 - 📫 How to reach me **prathameshdhande534@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -31,8 +31,8 @@
 <h3 align="left">Frameworks : </h3>
 <p align="left"><a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="60"/></a>&nbsp;
 <a href="https://mui.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60"/></a> &nbsp;
-<a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" height="60"/></a>
-          
+<a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" height="60"/></a> &nbsp;
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" height=70/></a>     
 </p>
 
 <h3 align="left">Tools :</h3>
