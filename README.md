@@ -33,13 +33,16 @@
 <a href="https://mui.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60"/></a> &nbsp;
 <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" height="60"/></a> &nbsp;
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" height=70/></a> &nbsp;
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height=60/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height=60/></a> &nbsp;
+<a href="https://expressjs.com/" target="_blank"><img src="https://icongr.am/devicon/express-original.svg?color=ffffff" height=60/></a>
 </p>
 
 <h3 align="left">Tools :</h3>
-<p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> &nbsp; <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" /></a><a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> &nbsp;&nbsp;<img src="images/premiere.png" width="60" height="60"/> &nbsp;</a>
-<a href="https://www.eclipse.org/"><img src="https://skillicons.dev/icons?i=eclipse&theme=dark" height="60"></a>&nbsp;<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="60"></a>
+<p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> &nbsp; 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" /></a>&nbsp;&nbsp;
+<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="images/premiere.png" width="60" height="60"/> &nbsp;</a>
+<a href="https://www.eclipse.org/"><img src="https://skillicons.dev/icons?i=eclipse&theme=dark" height="60"></a>&nbsp;&nbsp;
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="60"></a>
 </p>
 
 <h3 align="left">Python Libraries :</h3>
