@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=6500&color=01F736&width=800&height=60&lines=Hii+There+%F0%9F%91%8B+%2C+It's+Me+Prathamesh+Dhande.;I+love+coding+in+Python+and+Java.;Welcome+%F0%9F%99%8F+To+My+Github+Profile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=6500&color=01F736&width=800&height=60&lines=Hii+There+%F0%9F%91%8B+%2C+It's+Me+Prathamesh+Dhande.;Learning+New+Technologies.;Welcome+%F0%9F%99%8F+To+My+Github+Profile.)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate of Software Developer from India 🇮🇳</h3>
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning </br>
       1. **Data Structure and Algorithms**
-      2. **MERN Stack**</br>
+      2. **.NET CORE**</br>
 - 📫 How to reach me **prathameshdhande534@gmail.com**
 
 ### Connect with me:
@@ -57,6 +57,8 @@
 ### Javascript Libraries :
 <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60"/></a>
 <a href="https://react-redux.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60"/></a>
+<a href="https://jquery.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" height="60"/></a>
+          
 
 ### Databases :
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height=60 /></a> &nbsp;
