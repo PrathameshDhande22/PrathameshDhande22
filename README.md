@@ -70,7 +70,10 @@
 
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height=60 /></a> &nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" /></a> &nbsp;
-<a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height=60/></a>
+<a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height=60/></a> &nbsp;
+<a href="https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="60"/>
+          
+</a>
 
 ### Operating System :
 
