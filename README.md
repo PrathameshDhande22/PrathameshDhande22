@@ -4,7 +4,9 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{prathameshdhande22}/count.svg)
 
-- 🌱 I’m currently learning </br> 1. **Data Structure and Algorithms** 2. **.NET CORE**</br>
+- 🌱 I’m currently learning </br> 
+1. **Data Structure and Algorithms** 
+2. **Django**
 - 📫 How to reach me **prathameshdhande534@gmail.com**
 
 ### Connect with me:
