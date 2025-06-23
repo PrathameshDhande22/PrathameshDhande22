@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning </br> 
 1. **Data Structure and Algorithms** 
-2. **Django**
+2. **Docker**
 - 📫 How to reach me **prathameshdhande534@gmail.com**
 
 ### Connect with me:
