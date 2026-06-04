@@ -39,8 +39,9 @@
 <a href="https://expressjs.com/" target="_blank"><img src="https://icongr.am/devicon/express-original.svg?color=ffffff" height=60/></a> &nbsp;
 <a href="https://vitejs.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height=60/></a>&nbsp;
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height=60/></a>&nbsp;
-<a href="https://streamlit.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height=60/></a>&nbsp;
-<a href="https://angular.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height=60/></a>
+<a href="https://streamlit.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height=60/></a>&nbsp;          
+<a href="https://angular.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height=60/></a>&nbsp;
+<a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height=60 /></a>
 
 ### Tools :
 
@@ -55,7 +56,6 @@
 <a href="https://www.npmjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" height="60"/></a>&nbsp;
 <a href="https://www.nuget.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" height="60"/></a>&nbsp;
 <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="60"/></a>&nbsp;
-          
 
 ### Python Libraries :
 
@@ -112,4 +112,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prathameshdhande22&theme=dark&hide_border=true)
 
 ### ✍️Random Dev Quote
+
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
