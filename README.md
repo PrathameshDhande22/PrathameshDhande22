@@ -1,10 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=6500&color=01F736&width=800&height=60&lines=Hii+There+%F0%9F%91%8B+%2C+It's+Me+Prathamesh+Dhande.;Welcome+%F0%9F%99%8F+To+My+Github+Profile.)](https://git.io/typing-svg)
 
-<h3 align="center">Turning ideas into scalable code.</h3>
+<h3 align="center">Building scalable software from idea to production.</h3>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=prathameshdhande22&style=flat-square&abbreviated=true)
 
-📫 How to reach me **prathameshdhande534@gmail.com**
+## Portfolio
+
+Visit my personal developer portfolio to explore my projects, technical skills, professional experience, and AI-powered portfolio assistant.
+
+🌐 **[View My Portfolio](https://prathameshdhande.com)**
 
 ### Connect with me:
 
@@ -16,7 +20,7 @@
 <a href="https://leetcode.com/prathamesh2003/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="prathamesh2003" height="35" width="140"/></a>&nbsp;
 <a href="https://www.codechef.com/users/prathamesh2003" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"  alt="prathamesh2003" height="35" width="140"/></a>
 
-### Languages :
+### Languages & Scripting :
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
@@ -28,6 +32,8 @@
 <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height=60/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/api/?view=net-8.0" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="60"/></a>
 <a href="https://nodejs.org/en" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="60"/></a>
+<a href="https://www.gnu.org/savannah-checkouts/gnu/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width=70/></a>
+          
 
 ### Frameworks :
 
@@ -39,17 +45,15 @@
 <a href="https://expressjs.com/" target="_blank"><img src="https://icongr.am/devicon/express-original.svg?color=ffffff" height=60/></a> &nbsp;
 <a href="https://vitejs.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height=60/></a>&nbsp;
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height=60/></a>&nbsp;
-<a href="https://streamlit.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height=60/></a>&nbsp;          
+<a href="https://streamlit.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height=60/></a>&nbsp;  
 <a href="https://angular.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height=60/></a>&nbsp;
-<a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height=60 /></a>
+<a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height=60 /></a>&nbsp;
 
 ### Tools :
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> &nbsp;
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" /></a>&nbsp;&nbsp;
 <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="images/premiere.png" width="60" height="60"/> &nbsp;</a>
 <a href="https://www.eclipse.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height=60/></a> &nbsp;&nbsp;
-<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="60"></a>
 <a href="https://posit.co/download/rstudio-desktop/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" height=60/></a>
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="60"/></a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="60"/></a>&nbsp;
@@ -72,7 +76,12 @@
 <a href="https://react-redux.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60"/></a>
 <a href="https://jquery.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" height="60"/></a>
 <a href="https://ngrx.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrx/ngrx-original.svg" height="60"/></a>
-<a href="https://rxjs.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" height="60"/></a>
+<a href="https://rxjs.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" height="60"/></a>&nbsp;
+<a href="https://www.prisma.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" width=60 /></a>
+
+### AI/LLM :
+
+<a href="https://langchain.com" target="_blank"><img src="images/langchain.png"></a>
 
 ### Databases :
 
@@ -80,22 +89,38 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" /></a> &nbsp;
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height=60/></a> &nbsp;
 <a href="https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="60"/>&nbsp;
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60"/>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60"/></a>
 
-</a>
+### Cloud and Deployment :
+
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width=60/></a>
+
+### CI/CD :
+
+<a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" width=60/></a>
+
+### Containeriation :
+
+<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width=60 /></a>&nbsp;
+<a href="https://podman.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" width=60/></a>
+          
+
+### Web Server / Proxy: 
+
+<a href="https://nginx.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width=80/></a>&nbsp;
+<a href="https://traefik.io/traefik" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/traefikproxy/traefikproxy-plain-wordmark.svg" width=80/></a>
+          
+          
+
+### Version Control: 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a>&nbsp;
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="60"></a>
+
 
 ### Operating System :
 
 <a href="https://www.microsoft.com/software-download/windows11"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" height=60/></a>
 <a href="https://ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height=60/></a>
-
-### HackerRank Verified Skills :
-
-<a href="https://www.hackerrank.com/certificates/ae5dbc2a7242" target="_blank"><img src="images/java.png" alt="java" width="80" ></a> &nbsp;
-<a href="https://www.hackerrank.com/certificates/f936f83e707d" target="_blank"><img src="images/python.png" alt="java" width="80" ></a> &nbsp;
-<a href="https://www.hackerrank.com/certificates/10858d06e504" target="_blank"><img src="images/sql.png" alt="java" width="80" ></a> &nbsp;
-<a href="https://www.hackerrank.com/certificates/b91cefc0b310" target="_blank"><img src="images/problem_solving.png" alt="java" width="80" height="110" ></a>
-</br>
 
 ### My Trophies in Github :
 
@@ -103,14 +128,12 @@
 
 ### Most Used Languages :
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshdhande22&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="prathameshdhande22" />
+![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=prathameshdhande22&hide_progress=true&langs_count=6&hide_values=true&theme=chartreuse-dark)
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshdhande22&show_icons=true&locale=en&theme=highcontrast" alt="prathameshdhande22" />
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=prathameshdhande22&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
 <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=prathameshdhande22&theme=dark&hide_border=true)
-
-### ✍️Random Dev Quote
+### ✍️ Random Dev Quote
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
